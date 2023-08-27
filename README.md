@@ -5,9 +5,9 @@ In this game,the player is presented with a rectangular playfield that is 10 cel
 
 When a solid row is formed,it disappers ,and any blocks above it fall down to fill the space.The player earns points for each row they clear,and the game continues until the stack of terminoes reaches the top of the playfield,at which point the game is over .
 Use KEYUP, KEYDOWN, KEYLEFT, KEYRIGHT to control the movement of the falling blocks.
-##Installation
-Install Python, and pygame to avoid any bugs.
+
 ## Deployment
+Install Python, and pygame to avoid any bugs.
 Run the code in a code editor to play the game. 
 Language used: Python 
 
