@@ -12,5 +12,11 @@ Run the code in a code editor to play the game.
 Install Python, and pygame to avoid any bugs.
 Language used: Python 
 
+Outputs attatched:
+![Screenshot 2023-08-27 154831](https://github.com/itskutush/Tetris/assets/89831977/b23057f9-ba30-4a8b-a814-bfb53d1e4db3)
+![Screenshot 2023-08-27 154818](https://github.com/itskutush/Tetris/assets/89831977/604d59e8-9401-4ff7-928e-340ef7888e4c)
+![Screenshot 2023-08-27 154925](https://github.com/itskutush/Tetris/assets/89831977/13f910c6-fa79-4b16-9bec-0119f0fa1b47)
+
+
 
 Coded by: Srijoni Chowdhury
